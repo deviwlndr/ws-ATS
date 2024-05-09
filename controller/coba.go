@@ -19,7 +19,7 @@ func Homepage(c *fiber.Ctx) error {
 }
 
 func GetRapatMakrab(c *fiber.Ctx) error {
-	ps := cek.GetAllRapatMakrab
+	ps := cek.GetAllRapatMakrab()
 	return c.JSON(ps)
 }
 
