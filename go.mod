@@ -4,7 +4,8 @@ go 1.22.1
 
 require (
 	github.com/aiteung/atdb v0.1.7
-	github.com/deviwlndr/undangan_rapat v0.0.1
+	github.com/aiteung/musik v0.0.5
+	github.com/deviwlndr/undangan_rapat v0.0.3
 	github.com/gofiber/fiber/v2 v2.52.4
 	go.mau.fi/whatsmeow v0.0.0-20240327124018-350073db195c
 )
@@ -35,7 +36,7 @@ require (
 	github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a // indirect
 	go.mau.fi/libsignal v0.1.0 // indirect
 	go.mau.fi/util v0.4.1 // indirect
-	go.mongodb.org/mongo-driver v1.14.0 // indirect
+	go.mongodb.org/mongo-driver v1.15.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
