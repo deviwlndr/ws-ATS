@@ -17,6 +17,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/deviwlndr/undangan_rapat v0.0.3 h1:yFh/TCPMd5gY5FQD1xV+1Vi/btHqi5ghcAznFA/hfs8=
 github.com/deviwlndr/undangan_rapat v0.0.3/go.mod h1:hZorNvgaCAG3E/4X8f9OQCRH8jmlGBHFA8bJERGfNDc=
+github.com/deviwlndr/undangan_rapat v0.0.6 h1:tjmD2q2J4AJ+1ko9PJGqEIPPboHk8UjFAYAtRGYzu+c=
+github.com/deviwlndr/undangan_rapat v0.0.6/go.mod h1:hZorNvgaCAG3E/4X8f9OQCRH8jmlGBHFA8bJERGfNDc=
 github.com/dnaeon/go-vcr v1.1.0/go.mod h1:M7tiix8f0r6mKKJ3Yq/kqU1OYf3MnfmBWVbPx/yU9ko=
 github.com/dnaeon/go-vcr v1.2.0/go.mod h1:R4UdLID7HZT3taECzJs4YgbbH6PIGXB6W/sc5OLb6RQ=
 github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
